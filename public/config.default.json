@@ -1,0 +1,8 @@
+[
+  {
+    "audio": "https://example.com/media/sample-audio.m3u8",
+    "url": "https://example.com/transcripts/sample.json",
+    "vtt": "https://example.com/vtts/sample.vtt",
+    "name": "sample-transcript"
+  }
+]

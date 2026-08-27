@@ -1,0 +1,14 @@
+[
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/e6c89b03-a6a9-4d59-950b-65f0dd57d446/outputs/02_00441_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00441_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00441_01.vtt",
+    "name": "02_00441_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/559701ed-11c4-4f40-aeca-5e9049f1c875/outputs/02_00441_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00441_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00441_02.vtt",
+    "name": "02_00441_02"
+  }
+]

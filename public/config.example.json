@@ -1,0 +1,14 @@
+[
+  {
+    "audio": "https://example.com/media/audio-file-01.m3u8",
+    "url": "https://example.com/transcripts/transcript-01.json",
+    "vtt": "https://example.com/vtts/subtitle-01.vtt",
+    "name": "example-transcript-01"
+  },
+  {
+    "audio": "https://example.com/media/audio-file-02.m3u8",
+    "url": "https://example.com/transcripts/transcript-02.json",
+    "vtt": "https://example.com/vtts/subtitle-02.vtt",
+    "name": "example-transcript-02"
+  }
+]
